@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1087ffd-b91b-419e-90d2-5cb334f49bc7" name="Changes" comment="">
+    <list default="true" id="f1087ffd-b91b-419e-90d2-5cb334f49bc7" name="Changes" comment="dd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/User/AppData/Roaming/JetBrains/WebStorm2025.2/node/versions/25.0.0/node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.nodejs",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,11 +75,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760898569143</updated>
-      <workItem from="1760898570295" duration="1521000" />
+      <workItem from="1760898570295" duration="4379000" />
     </task>
+    <task id="LOCAL-00001" summary="code code">
+      <option name="closed" value="true" />
+      <created>1760900224524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760900224525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dd">
+      <option name="closed" value="true" />
+      <created>1760900398962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760900398962</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sửa chính tả">
+      <option name="closed" value="true" />
+      <created>1760901145291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760901145291</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code code" />
+    <MESSAGE value="dd" />
+    <MESSAGE value="sửa chính tả" />
+    <option name="LAST_COMMIT_MESSAGE" value="sửa chính tả" />
   </component>
 </project>
